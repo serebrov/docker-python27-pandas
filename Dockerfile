@@ -1,4 +1,5 @@
 FROM python:2.7
+
 MAINTAINER Boris Serebrov
 
 RUN apt-get update && apt-get install -y \

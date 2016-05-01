@@ -1,1 +1,1 @@
-Docker container with python and numpy, scypy and pandas installed.
+Docker container with python and numpy, scipy and pandas installed.
